@@ -19,6 +19,7 @@ Capturas de Pantalla
 
 1️⃣ Interfaz inicial:
 
+![image](https://github.com/user-attachments/assets/8c423cf5-7608-4d02-83ee-d7981b432182)
 
 
 2️⃣ Agregando amigos:
