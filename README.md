@@ -30,7 +30,8 @@ Demostración
 
 3️⃣ Realizando el sorteo:
 
-![image](https://github.com/user-attachments/assets/dee3621a-6661-49db-910e-d0ef974c90f5)
+![image](https://github.com/user-attachments/assets/0011c8eb-e72e-4ab6-83b5-9eb3f0929d05)
+
 
 
 Tecnologías Utilizadas
