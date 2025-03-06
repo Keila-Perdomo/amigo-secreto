@@ -15,7 +15,7 @@ Sorteo aleatorio: Un botón "Sortear amigo" selecciona aleatoriamente un nombre 
 
 Interfaz accesible: Uso de aria-label y aria-live para mejorar la accesibilidad.
 
-Capturas de Pantalla
+Demostración
 
 1️⃣ Interfaz inicial:
 
@@ -24,22 +24,19 @@ Capturas de Pantalla
 
 2️⃣ Agregando amigos:
 
+![image](https://github.com/user-attachments/assets/10261c8e-250d-4e9e-8d7f-f342e74a767d)
+
 
 
 3️⃣ Realizando el sorteo:
 
+![image](https://github.com/user-attachments/assets/dee3621a-6661-49db-910e-d0ef974c90f5)
 
-
-Video de Demostración
-
-📹 Ver Video de Uso
 
 Tecnologías Utilizadas
 
 HTML5
-
 CSS3
-
 JavaScript (DOM y lógica de programación)
 
 Cómo Ejecutar el Proyecto
@@ -56,4 +53,4 @@ Si deseas mejorar este proyecto, ¡eres bienvenido! Puedes enviar un pull reques
 
 Licencia
 
-Este proyecto está bajo la Licencia MIT. ¡Úsalo libremente! 
+Este proyecto está bajo la Licencia MIT. Úsalo libremente.
