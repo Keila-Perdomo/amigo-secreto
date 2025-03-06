@@ -26,9 +26,12 @@ Demostración
 
 ![image](https://github.com/user-attachments/assets/10261c8e-250d-4e9e-8d7f-f342e74a767d)
 
+![image](https://github.com/user-attachments/assets/07c935d1-52d3-4069-bf99-11a08eb416a6)
+
+![image](https://github.com/user-attachments/assets/5ba89f0f-333e-481f-ab8a-39dc899ec2d1)
 
 
-3️⃣ Realizando el sorteo:
+3️ Realizando el sorteo:
 
 ![image](https://github.com/user-attachments/assets/0011c8eb-e72e-4ab6-83b5-9eb3f0929d05)
 
