@@ -1,26 +1,51 @@
-<h1> Amigo Secreto </h1>
-Descripción
+<h1>Amigo Secreto 🎁</h1>
+
+Índice
+
+Título e imagen de portada
+
+Insignias
+
+Índice
+
+Descripción del proyecto
+
+Estado del proyecto
+
+Características de la aplicación y demostración
+
+Acceso al proyecto
+
+Tecnologías utilizadas
+
+Personas Contribuyentes
+
+Personas Desarrolladoras del Proyecto
+
+Licencia
+
+Conclusión
+
+
+Amigo Secreto 🎁
+
+Insignias
+
+🚀 Proyecto interactivo | 🎨 Diseño intuitivo | 🛠️ Basado en JavaScript
+
+Descripción del proyecto
 
 "Amigo Secreto" es una aplicación web interactiva que permite a los usuarios agregar nombres de amigos y realizar un sorteo aleatorio para determinar quién es el amigo secreto. Este proyecto está diseñado para mostrar conceptos fundamentales de lógica de programación, como condicionales, arreglos y funciones en JavaScript.
 
-Funcionalidades
+Estado del proyecto
 
-Agregar nombres: Permite ingresar nombres a través de un campo de texto y un botón "Añadir".
+📌 Proyecto en estado completo y listo para uso.
 
-Validación de entrada: Verifica que el nombre ingresado no esté vacío y que no se repita en la lista.
-
-Mostrar lista de amigos: Los nombres agregados aparecen en una lista debajo del campo de entrada.
-
-Sorteo aleatorio: Un botón "Sortear amigo" selecciona aleatoriamente un nombre de la lista y lo muestra en pantalla.
-
-Interfaz accesible: Uso de aria-label y aria-live para mejorar la accesibilidad.
-
-Demostración
+Características de la aplicación y demostración
 
 1️⃣ Interfaz inicial:
 
 ![image](https://github.com/user-attachments/assets/8c423cf5-7608-4d02-83ee-d7981b432182)
-
 
 2️⃣ Agregando amigos:
 
@@ -31,32 +56,41 @@ Demostración
 ![image](https://github.com/user-attachments/assets/5ba89f0f-333e-481f-ab8a-39dc899ec2d1)
 
 
-3️ Realizando el sorteo:
+
+3️⃣ Realizando el sorteo:
 
 ![image](https://github.com/user-attachments/assets/0011c8eb-e72e-4ab6-83b5-9eb3f0929d05)
 
+Acceso al proyecto
 
+Puedes acceder al código fuente clonando el repositorio:
 
-Tecnologías Utilizadas
+[ git clone https://github.com/tuusuario/amigo-secreto.git](https://github.com/Keila-Perdomo/amigo-secreto.git)
+
+Luego, abre el archivo index.html en tu navegador favorito.
+
+Tecnologías utilizadas
 
 HTML5
+
 CSS3
+
 JavaScript (DOM y lógica de programación)
 
-Cómo Ejecutar el Proyecto
+Personas Contribuyentes
 
-Descarga o clona este repositorio:
+Personas Desarrolladoras del Proyecto
 
-git clone https://github.com/tuusuario/amigo-secreto.git
-
-Abre el archivo index.html en tu navegador favorito.
-
-Contribución
-
-Si deseas mejorar este proyecto, ¡eres bienvenido! Puedes enviar un pull request con mejoras en funcionalidad, diseño o documentación.
+👩‍💻 Desarrollado por: [Keila Esmeralda Perdomo Hernández]
 
 Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y compartirlo sin restricciones, siempre y cuando se incluya la licencia original.
+
+Conclusión
+
+🎉 "Amigo Secreto" es una aplicación sencilla y entretenida que muestra el uso de conceptos fundamentales en JavaScript. ¡Esperamos que te sea útil y divertido! 🚀
+
+
 
 
