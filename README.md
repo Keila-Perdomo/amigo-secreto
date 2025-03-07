@@ -57,4 +57,6 @@ Si deseas mejorar este proyecto, ¡eres bienvenido! Puedes enviar un pull reques
 
 Licencia
 
-Este proyecto está bajo la Licencia MIT. Úsalo libremente.
+Este proyecto está bajo la Licencia MIT. Puedes usarlo, modificarlo y compartirlo sin restricciones, siempre y cuando se incluya la licencia original.
+
+
